@@ -1,7 +1,7 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221240031
-### NAME: Aruru Sai Bandhavi
+### NAME: Naramala NIharika
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
 ### Algorithm:
